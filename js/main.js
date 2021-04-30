@@ -4,7 +4,6 @@ if (localStorage.getItem('tasks')==null){
 }else{
     tasks =JSON.parse(localStorage.getItem('tasks'))
     display()
-    console.log(tasks);
 }
 function getdata() {
     var taskName =document.getElementById('taskName').value
