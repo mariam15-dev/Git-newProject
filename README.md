@@ -1,5 +1,5 @@
-# XXX
-*xxx is a to-do list where you can save tasks you want to do.*
+# Fakarni
+*Fakarni is a to-do list where you can save tasks you want to do.*
 
 ## Table of Contents
 - Introduction
@@ -9,7 +9,7 @@
 
 ## Introduction
 
-xxx is a web application software system. Users of the system add tasks to be done and remove them later. The system saves the users tasks until they remove them. 
+Fakarni is a web application software system. Users of the system add tasks to be done and remove them later. The system saves the users tasks until they remove them. 
 
 ## Technologies Used
 - HTML5
