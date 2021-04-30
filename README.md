@@ -24,7 +24,7 @@ Fakarni is a web application software system. Users of the system add tasks to b
 ### Add task:
 - Write the task name
 - Click on (+) button
-Note: - you can't add two tasks with the same name.
+*Note:* - you can't add two tasks with the same name.
       - You can't add a task without a name.
 ### Remove task:
 - Click on (x) button
