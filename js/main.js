@@ -29,7 +29,7 @@ function display(){
      taskName.value =""
  }
 function Delete(index){
-      products.splice(index,1)
-      local storage.setItem('products',JSON.stringify(products))
+      tasks.splice(index,1)
+      localStorage.setItem('tasks',JSON.stringify(tasks))
       display()
 }
