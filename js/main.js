@@ -29,7 +29,7 @@ function display(){
  function clearInputs() {
      taskName.value =""
  }
-function Delete(){
+function Delete(index){
       products.splice(index,1)
       local storage.setItem('products',JSON.stringify(products))
       display()
