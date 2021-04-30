@@ -4,7 +4,6 @@ if (localStorage.getItem('tasks')==null){
 }else{
     tasks =JSON.parse(localStorage.getItem('tasks'))
     display()
-    console.log(tasks);
 }
 function getdata() {
     var taskName =document.getElementById('taskName').value
@@ -30,7 +29,7 @@ function display(){
      taskName.value =""
  }
 function Delete(index){
-      products.splice(index,1)
-      local storage.setItem('products',JSON.stringify(products))
+      tasks.splice(index,1)
+      localStorage.setItem('tasks',JSON.stringify(tasks))
       display()
 }
