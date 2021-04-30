@@ -18,16 +18,12 @@ xxx is a web application software system. Users of the system add tasks to be do
 - JavaScript Programming Language
 
 ## Contributors
-[Shrouk Ashraf](https://github.com/Shrouk-hub)
-[Salma Hamed](https://github.com/Salma-Hamed)
-[Mariam Ayman]()
-[Dina Maher](https://github.com/dinaM24)
-[Entesar Awad]()
+[Shrouk Ashraf](https://github.com/Shrouk-hub), [Salma Hamed](https://github.com/Salma-Hamed), [Mariam Ayman](https://github.com/mariam15-dev), [Dina Maher](https://github.com/dinaM24), [Entesar Awad]()
 
 ## User Guide
+
 ### Add task:
 - Write the task name
 - Click on (+) button
-
 ### Remove task:
 - Click on (x) button
