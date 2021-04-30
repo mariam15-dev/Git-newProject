@@ -21,7 +21,7 @@ function display(){
     for (var i=0; i<tasks.length; i++) {
         copaya += `<div class="col-md-12 text-center mt-5 card p-2">
         ${tasks[i].name}
-        <i class="fas fa-times"></i>
+        <i class="fas fa-times" onclick="Delete(${i})"></i>
     </div>`
     }
     document.getElementById('demo').innerHTML=copaya
