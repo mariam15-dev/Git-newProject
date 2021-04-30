@@ -1,1 +1,29 @@
+h1{
+    color: green;
+}
+div i{
+    position: absolute;
+    top: 35%;
+    right: 10px;
+    cursor: pointer;
+}
+.item {
+    position: relative;
+    background-color: 	rgba(34,139,34,0.4);
+    color: green;
+}
+
+.seearch{
+    position: relative;
+}
+.btn {
+    position: absolute;
+    left: 14.5%;
+    top: 15%;;
+    padding: 10px;
+    color: green;
+}
+.card {
+    background-color: 	rgba(34,139,34,0.4);
+}
 
