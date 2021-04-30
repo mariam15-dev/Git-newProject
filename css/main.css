@@ -3,27 +3,27 @@ h1{
 }
 div i{
     position: absolute;
-    top: 35%;
+    top: 20%;
     right: 10px;
     cursor: pointer;
+    color: green;
 }
-.item {
-    position: relative;
-    background-color: 	rgba(34,139,34,0.4);
+.demo {
     color: green;
 }
 
-.seearch{
-    position: relative;
-}
 .btn {
     position: absolute;
-    left: 14.5%;
-    top: 15%;;
+    left: 14%;
+    top: 10%;
     padding: 10px;
     color: green;
 }
 .card {
     background-color: 	rgba(34,139,34,0.4);
 }
+.pa {
+    position:relative; 
+}
+
 
